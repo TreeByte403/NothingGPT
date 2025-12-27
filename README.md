@@ -1,20 +1,19 @@
 NothingGPT
-----------
+---------------------------
+1| NothingGPT is an AI chatbot for the Linux terminal. Here is how to install it:
 
-- NothingGPT is a AI chatbot for Linux terminal. Here is an installation tutorial:
+2| To install NothingGPT, just follow these commands:
 
-- To install NothingGPT, you just have to execute some commands:
+3| apt update – This updates the list of available packages.
 
-- apt update -- This will update the upgrade list.
+4| apt upgrade – This upgrades all packages on your system.
 
-- apt upgrade -- This will upgrade everything from the upgrade list
+5| apt install git – This installs Git, which you will need to copy the repository.
 
-- apt install git -- This command will install git. You'll need it later to copy this repository.
+6| git clone https://github.com/TreeByte403/NothingGPT – This copies the NothingGPT repository to your computer.
 
-- git clone https://github.com/TreeByte403/NothingGPT -- This command will copy the repository.
+7| cd NothingGPT – This changes the directory to the NothingGPT folder. All necessary files are here.
 
-- cd NothingGPT -- This will change the directory to NothingGPT directory. In this directory are all files you need.
+8| chmod +x setup.sh – This makes the setup script executable.
 
-- chmod +x setup.sh -- This will make the setup file executeable.
-
-- ./setup -- THis will execute the setup file. This file will do everything automatically. Then you can enjoy NothingGPT inside your Linux terminal.
+9| ./setup.sh – This runs the setup script. It will automatically install everything. After that, you can enjoy using NothingGPT in your terminal.
