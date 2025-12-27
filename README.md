@@ -16,5 +16,6 @@ To install NothingGPT, just follow these commands:
 6| chmod +x setup.sh – This makes the setup script executable.
 
 7| ./setup.sh – This runs the setup script. It will automatically install everything. After that, you can enjoy using NothingGPT in your terminal.
+
 ------------------------------
 To exit press control + c or control + d.
