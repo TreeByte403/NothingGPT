@@ -6,3 +6,5 @@ pip install g4f
 pip install typing-extensions
 
 python3 NothingGPT.py
+
+clear
